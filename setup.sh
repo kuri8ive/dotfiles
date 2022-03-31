@@ -26,6 +26,7 @@ brew install iterm2              --cask
 brew install discord             --cask
 brew install deepl               --cask
 brew install zoom                --cask
+brew install rstudio             --cask
 
 brew install git
 brew install docker-compose
