@@ -15,7 +15,6 @@ if [ ! -x "`which mas`" ]; then
 fi
 
 mas install 539883307  # LINE
-mas install 803453959  # Slack
 
 brew install google-japanese-ime --cask
 brew install google-chrome       --cask
@@ -27,6 +26,7 @@ brew install discord             --cask
 brew install deepl               --cask
 brew install zoom                --cask
 brew install rstudio             --cask
+brew install slack               --cask
 
 brew install git
 brew install docker-compose
