@@ -39,6 +39,8 @@ brew install starship
 brew install yarn
 brew install openssh
 brew install gh
+brew install go
+brwe install hugo
 
 # Python environment
 brew install pyenv
